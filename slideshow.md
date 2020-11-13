@@ -1,8 +1,6 @@
 ---
 layout: html
 ---
-
-<!DOCTYPE html>
 <html>
   <head>
     <title>Title</title>
