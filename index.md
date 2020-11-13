@@ -2,7 +2,7 @@
 
 ## here you will find stuff
 
-**_[Click here to see example slide show](slideshow.md "Slideshow Example")_**
+**_[Click here to see example slide show](slideshow.html "Slideshow Example")_**
 
 _italic?_ _italic_ 
 
