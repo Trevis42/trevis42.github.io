@@ -2,7 +2,7 @@
 
 ## here you will find stuff
 
-[Click here to visit my about page!](slideshow.md)
+**_[Click here to see example slide show](slideshow.md "Slideshow Example")_**
 
 _italic?_ _italic_ 
 
