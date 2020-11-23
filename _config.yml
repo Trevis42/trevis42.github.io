@@ -1,7 +1,4 @@
-theme: jekyll-theme-hacker
-name: TrevDev main site
-title: Trevor's portfolio site
-markdown: kramdown
-
-kramdown:
-  input: GFM
+theme: jekyll-theme-time-machine
+title: Trevor Taylor - Portfolio Site
+description: This is my porfolio site. Please use links to checkout other projects.
+show_downloads: false;
