@@ -1,4 +1,38 @@
 theme: jekyll-theme-time-machine
-title: Trevor Taylor - Portfolio Site
-description: This is my portfolio site. Please use links to checkout other projects.
+
+#permalink: /:categories/:year/:month/:day/:title
+
+exclude: ["README.md", "License.md"]
+highlighter: rouge
+
+author:
+    name: Trevor Taylor
+    title: Trevor Taylor - Portfolio Site
+    description: This is my portfolio site. Please use links to checkout other projects.
+    email: ttaylor@talentpath.com
+    github: Trevis42
+
 show_downloads: false;
+
+# NOTE: Replacing this next line with your own URL
+production_url: https://trevis42.github.io
+
+JB:
+    version: 0.3.0
+
+BASE_PATH: https://trevis42.github.io
+
+archive_path: nil
+categories_path: nil
+tags_path: nil
+atom_path: nil
+rss_path: nil
+
+comments:
+    provider: false
+
+analytics:
+    provider: false
+
+sharing:
+    provider: false
