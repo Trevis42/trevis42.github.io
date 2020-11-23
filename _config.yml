@@ -1,4 +1,13 @@
 theme: jekyll-theme-time-machine
+<<<<<<< HEAD
 title: Trevor Taylor - Portfolio Site
 description: This is my porfolio site. Please use links to checkout other projects.
 show_downloads: false;
+=======
+name: TrevDev main site
+title: Trevor's portfolio site
+markdown: kramdown
+
+kramdown:
+  input: GFM
+>>>>>>> 3c6f0befed4893d24a8e6765ea8f64e21100ae22
