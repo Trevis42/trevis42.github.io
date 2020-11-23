@@ -1,13 +1,8 @@
-# Table of Contents
-
-- [Go to Section One](#sectionOne)
-- [Go to Section Two](#sectionTwo)
-
 <a name="sectionOne"></a>
-# Welcome 
+# Welcome [](#sectionOne)
 
 <a name="sectionTwo"></a>
-## Description 
+## Description [](#sectionOne)
 
 **_[Click here to see example slide show](slideshow.html)_**
 
