@@ -1,6 +1,6 @@
-# Welcome {: style="color: red"} 
+# Welcome {:.welcome"} 
 
-## here you will find stuff{: style="color: red"} 
+## here you will find stuff 
 
 **_[Click here to see example slide show](slideshow.html)_**
 
