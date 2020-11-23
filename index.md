@@ -1,8 +1,8 @@
-# Welcome
+# Welcome {:.welcome"} 
 
-## here you will find stuff
+## here you will find stuff 
 
-[Click here to visit my about page!](slideshow.md)
+**_[Click here to see example slide show](slideshow.html)_**
 
 _italic?_ _italic_ 
 

@@ -1,0 +1,7 @@
+theme: jekyll-theme-hacker
+name: TrevDev main site
+title: Trevor's portfolio site
+markdown: kramdown
+
+kramdown:
+  input: GFM
