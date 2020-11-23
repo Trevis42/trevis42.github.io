@@ -1,6 +1,6 @@
 # Welcome
 
-## here you will find stuff
+## here you will find stuff{::.subtitle style="green":\} 
 
 **_[Click here to see example slide show](slideshow.html)_**
 
