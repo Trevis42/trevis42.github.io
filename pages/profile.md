@@ -10,9 +10,11 @@ description: Professional Profile Page
 ---
 ## About me
 ### Professional Summary
-___I have intermediate experience in C#, Java, Python, and Java, as well various front-end frameworks like React. I have (self-taught) working knowledge of Docker Containers, including deploying local database containers for development. 
-My methodical research of each new programming language I learn fosters an early, comprehensive knowledge base that allows me to expedite projects.
-I intuitively promote harmony and teamwork by expressing appreciation for the contributions and achievements of others, which encourages a peaceful, productive work environment, and results in an excellent product.___
+___I have intermediate experience in C#, Java, Python, and Java, as well various front-end frameworks like React. I have (self-taught) working knowledge of Docker Containers, including deploying local database containers for development.___
+
+___My methodical research of each new programming language I learn fosters an early, comprehensive knowledge base that allows me to expedite projects.___
+
+___I intuitively promote harmony and teamwork by expressing appreciation for the contributions and achievements of others, which encourages a peaceful, productive work environment, and results in an excellent product.___
 
 ---
 
@@ -26,7 +28,7 @@ Bachelor of Science, Computing Science
 ### ACCOMPLISHMENTS:
 - Earned rank of Eagle Scout at age 16
 - Served a two-year, full-time mission for The Church of Jesus of Christ of Latter-day Saints (Spanish-speaking)
-- Acclaim badge: 
+- [Credly Acclaim badge](https://www.youracclaim.com/badges/d43fa3f7-1fbe-4739-a427-422ae420347a/public_url), *Certified Full-Stack Developer*, Talent Path
 
 ---
 
@@ -35,7 +37,6 @@ Bachelor of Science, Computing Science
 IT Experience: 1 year
 Digital Dental Solutions – IT Tech assistant
 Talent Path- Full Stack Engineer
-
 **Overall Experience: 9 years**
   
 ### HOBBIES | PASSIONS
