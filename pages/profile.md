@@ -133,7 +133,7 @@ CONNECTION CENTER ASSOCIATE
 #### The Virtual N.O.M. (MongoDB, Express, React, Node):
 
 This project helps users find a place to eat nearby, filtered by selected preferences. Non-filtered preferences will default search radius to 5 miles. We use Yelp API for obtaining our data and store the searches in a database to minimize calls to the API sever, allowing for faster queries and filtering during a session (especially when location does not change but distance does). This image shows sample data from a document in the database. 
-![data](img\vnomdata.png)
+![vnomdata](assets\images\VNOMdata.png)
 
 Project Links: 
 	- [The Virtual N.O.M. client](https://github.com/Trevis42/TheVirtualNOM)
@@ -142,7 +142,7 @@ Project Links:
 #### Headshots
 
 Group ReactJS application with camera and background removal components to take professional pictures.
-![Headshots](img\headshotsimage.png)
+![Headshots](assets\images\headshotsimage.png) <!-- add image -->
 
     Languages: ReactJS
     Roles: Save Image, Refactoring, Research
@@ -152,7 +152,7 @@ Project Link:[Headshots Application](https://github.com/Trevis42/headShotsSitefo
 #### Amazin'
 
 Full-stack application replicating popular shopping websites.
-![Amazin](img\amazin.png)
+![Amazin](assets\images\amazinPhotos.png) <!-- add image -->
 
     Languages: ReactJS, Springboot/Java, Postgres
     Roles: Image Gallery, Image magnify/zoom, Setup DB and migrations
@@ -165,7 +165,7 @@ Project Links:
 #### Earth BNB
 
 Full-stack application replicating popular bed and breakfast websites.
-![EarthBNB](img\location.png)
+![EarthBNB](assets\images\reviews.png) <!-- add image -->
 
     Languages: AngularJS, Springboot/Java, MySQL
     Roles: Customer reviews and ratings, Server development for reviews
