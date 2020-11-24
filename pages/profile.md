@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Trevor's Profile
 ---
 
 # Trevor Taylor
