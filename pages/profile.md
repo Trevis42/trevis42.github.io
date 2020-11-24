@@ -34,3 +34,6 @@ instructors encouraged us to learn on our own with the information they provided
 really unique, fun ways to solve problems and help others learn how to solve those problems as
 well.
 
+
+
+[Back to main page](https://trevis42.github.io/)

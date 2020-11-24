@@ -1,5 +1,7 @@
 ---
 layout: default
+title: TrevDev - Main site
+description: Main hub for all my stuff tech related as well as my profile.
 ---
 
 <a name="sectionOne"></a>
