@@ -15,4 +15,4 @@ Feel free to view them in any order.
 
 
 <!--change to profile link-->
-**_[My profile page](profile.html)_** 
+**_[My profile page](pages/profile.html)_** 
