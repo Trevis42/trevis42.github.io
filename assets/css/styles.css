@@ -1,11 +1,7 @@
 ---
 ---
 
-@import "";
-
-html {
-	background-color: rgb(112, 128, 144);
-}
+@import "{{ site.theme }}";
 
 body {
 	margin: 0 auto;
@@ -17,22 +13,6 @@ body {
 	background-color: white;
 	/*color: #444;*/
 	padding: 10px 10px;
-}
-
-a:link {
-	color: #708090;
-}
-a:visited {
-	color: #284949;
-}
-a:hover {
-	color: #3f638a;
-}
-
-h1,
-h2,
-h3 {
-	line-height: 1.2rem;
 }
 
 #titleBar {
@@ -48,10 +28,6 @@ h3 {
 	margin-top: 17.5px;
 	margin-bottom: 17.5px;
 	line-height: 50px;
-}
-
-#intro-tag {
-	color: rgb(90, 100, 110);
 }
 
 hr.mainLine {
@@ -86,7 +62,3 @@ hr.tbLine {
 	width: auto;
 	text-align: center;
 }
-
-/* .titleBar p,
-.titleBar a {
-} */
