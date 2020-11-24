@@ -56,4 +56,4 @@ well.
 
 #### Person (Fun/Interesting)
 - [Blazor Dice Roller - wip](https://github.com/Trevis42/DiceRoller-BlazorApp)
-  - [Blazor Dice Roller - deployment](https://blazor-dice-roller.netlify.app/)
+  - [Blazor Dice Roller - deployment](https://blazor-dice-roller.netlify.app/){:target="_blank"}
