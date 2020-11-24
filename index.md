@@ -9,7 +9,7 @@ Feel free to view them in any order.
 
 ## Links to projects and profile
 <!--change to profile link-->
-**_[My profile page](pages/profile.html)_** 
+**_[My profile page](pages/profile.md)_** 
 ### Projects
 - [Go to Section One](#sectionOne)
 - [Go to Section Two](#sectionTwo)
