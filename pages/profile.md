@@ -10,11 +10,11 @@ description: Professional Profile Page
 ---
 ## About me
 ### Professional Summary
-___I have intermediate experience in C#, Java, Python, and Java, as well various front-end frameworks like React. I have (self-taught) working knowledge of Docker Containers, including deploying local database containers for development.___
+_I have intermediate experience in C#, Java, Python, and Java, as well various front-end frameworks like React. I have (self-taught) working knowledge of Docker Containers, including deploying local database containers for development._
 
-___My methodical research of each new programming language I learn fosters an early, comprehensive knowledge base that allows me to expedite projects.___
+_My methodical research of each new programming language I learn fosters an early, comprehensive knowledge base that allows me to expedite projects._
 
-___I intuitively promote harmony and teamwork by expressing appreciation for the contributions and achievements of others, which encourages a peaceful, productive work environment, and results in an excellent product.___
+_I intuitively promote harmony and teamwork by expressing appreciation for the contributions and achievements of others, which encourages a peaceful, productive work environment, and results in an excellent product._
 
 ---
 
@@ -39,7 +39,7 @@ Digital Dental Solutions – IT Tech assistant
 Talent Path- Full Stack Engineer
 **Overall Experience: 9 years**
   
-### HOBBIES | PASSIONS
+### HOBBIES \| PASSIONS
 
 Board games
 Puzzles
@@ -70,7 +70,7 @@ For all information, please contact **Kiersten Kindred** at Talent Path.
 - Disciplined, hard worker, with demonstrated leadership skills and exceptional math skills
 - Strong aptitude for quickly learning new computer languages
 - Excellent technical support skills, including remote access support
-- Troubleshooting | Debugging
+- Troubleshooting \| Debugging
 - Integrity
 - Problem solver
 - Team player
@@ -80,9 +80,9 @@ For all information, please contact **Kiersten Kindred** at Talent Path.
 - Git
 - HTML
 - CSS
-- Agile | Scrum | Kanban
+- Agile \| Scrum \| Kanban
 - JavaScript Fundamentals: Modern ES6 Features, OOP, & Web Components
-- React | Redux
+- React \| Redux
 - MongoDB
 - Full Stack Architecture with the MERN (MongoDB, Express, React, Node) Stack
 - Java
@@ -133,7 +133,7 @@ CONNECTION CENTER ASSOCIATE
 #### The Virtual N.O.M. (MongoDB, Express, React, Node):
 
 This project helps users find a place to eat nearby, filtered by selected preferences. Non-filtered preferences will default search radius to 5 miles. We use Yelp API for obtaining our data and store the searches in a database to minimize calls to the API sever, allowing for faster queries and filtering during a session (especially when location does not change but distance does). This image shows sample data from a document in the database. 
-![vnomdata](assets\images\VNOMdata.png)
+![vnomdata](assets/images/VNOMdata.png)
 
 Project Links: 
 	- [The Virtual N.O.M. client](https://github.com/Trevis42/TheVirtualNOM)
@@ -142,7 +142,7 @@ Project Links:
 #### Headshots
 
 Group ReactJS application with camera and background removal components to take professional pictures.
-![Headshots](assets\images\headshotsimage.png) <!-- add image -->
+![Headshots](assets/images/headshotsimage.png) <!-- add image -->
 
     Languages: ReactJS
     Roles: Save Image, Refactoring, Research
@@ -152,7 +152,7 @@ Project Link:[Headshots Application](https://github.com/Trevis42/headShotsSitefo
 #### Amazin'
 
 Full-stack application replicating popular shopping websites.
-![Amazin](assets\images\amazinPhotos.png) <!-- add image -->
+![Amazin](assets/images/amazinPhotos.png) <!-- add image -->
 
     Languages: ReactJS, Springboot/Java, Postgres
     Roles: Image Gallery, Image magnify/zoom, Setup DB and migrations
@@ -165,7 +165,7 @@ Project Links:
 #### Earth BNB
 
 Full-stack application replicating popular bed and breakfast websites.
-![EarthBNB](assets\images\reviews.png) <!-- add image -->
+![EarthBNB](assets/images/reviews.png) <!-- add image -->
 
     Languages: AngularJS, Springboot/Java, MySQL
     Roles: Customer reviews and ratings, Server development for reviews
