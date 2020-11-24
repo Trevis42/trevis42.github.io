@@ -5,8 +5,8 @@ theme: jekyll-theme-time-machine
 exclude: ["README.md", "License.md"]
 highlighter: rouge
 
-title: Trevor Taylor - Portfolio Site
-description: This is my portfolio site. Please use links to checkout other projects.
+title: TrevDev - Main site
+description: Main hub for all my stuff tech related as well as my profile.
 
 author:
     name: Trevor Taylor
