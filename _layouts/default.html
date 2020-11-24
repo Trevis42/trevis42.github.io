@@ -12,7 +12,16 @@
     <script src="https://code.jquery.com/jquery-1.12.4.min.js"
         integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
+    <script> 
+        let links = document.links;
 
+        for (let i = 0, linksLength = links.length; i < linksLength; i++) {
+           if (links[i].hostname != window.location.hostname) {
+               links[i].target = '_blank';
+           } 
+        }
+    </script>
+/sr
     {% seo %}
 
 </head>
