@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: default
 ---
 
 # Trevor Taylor
 
-- _[LinkedIn](https://www.linkedin.com/in/trevordtaylor/)
-- _[GitHub](https://github.com/Trevis42)
-- _[Work email](mailto:ttaylor@talenthpath.com)	
+- _[LinkedIn](https://www.linkedin.com/in/trevordtaylor/)_
+- _[GitHub](https://github.com/Trevis42)_
+- _[Work email](mailto:ttaylor@talenthpath.com)_	
 
 ## Intro
 **About me...** I have been interested in _technology_ for many years.
@@ -22,7 +22,9 @@ That led me to want to pursue game design. I started that learning at Lone Star 
 Kingwood. They have an amazing Game Design programming focus associate degree path. The
 instructors where great but I found my self enjoying the programming side of that more than the
 design side. This lead me to focus on programming and get a degree I could utilize in nearly any
-place I would be working -- a Computer Science degree.
+place I would be working -- a Computer Science degree from SHSU.
+
+*[SHSU]: Sam Houston State University
 
 Programming and designing various code projects is something that makes made me happy and helped
 encouraged me enjoy school and push to complete the degree as soon as possible. I had some

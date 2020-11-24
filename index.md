@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <a name="sectionOne"></a>
 # Trevor's Portfolio
 
