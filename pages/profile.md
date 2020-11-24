@@ -133,7 +133,7 @@ CONNECTION CENTER ASSOCIATE
 #### The Virtual N.O.M. (MongoDB, Express, React, Node):
 
 This project helps users find a place to eat nearby, filtered by selected preferences. Non-filtered preferences will default search radius to 5 miles. We use Yelp API for obtaining our data and store the searches in a database to minimize calls to the API sever, allowing for faster queries and filtering during a session (especially when location does not change but distance does). This image shows sample data from a document in the database. 
-![vnomdata](assets/images/VNOMdata.png)
+![](https://trevis42.github.io/assets/images/VNOMdata.png)
 
 Project Links: 
 	- [The Virtual N.O.M. client](https://github.com/Trevis42/TheVirtualNOM)
@@ -142,21 +142,21 @@ Project Links:
 #### Headshots
 
 Group ReactJS application with camera and background removal components to take professional pictures.
-![Headshots](assets/images/headshotsimage.png) <!-- add image -->
+![](https://trevis42.github.io/assets/images/headshotsimage.png) <!-- add image -->
 
-    Languages: ReactJS
-    Roles: Save Image, Refactoring, Research
+Languages: ReactJS
+Roles: Save Image, Refactoring, Research
 
 Project Link:[Headshots Application](https://github.com/Trevis42/headShotsSiteforTP)
 
 #### Amazin'
 
 Full-stack application replicating popular shopping websites.
-![Amazin](assets/images/amazinPhotos.png) <!-- add image -->
+![](https://trevis42.github.io/assets/images/amazinPhotos.png) <!-- add image -->
 
-    Languages: ReactJS, Springboot/Java, Postgres
-    Roles: Image Gallery, Image magnify/zoom, Setup DB and migrations
-	  Misc: Setup Docker containers for PostgreSQL DB and PgAdmin
+> Languages: ReactJS, Springboot/Java, Postgres
+> Roles: Image Gallery, Image magnify/zoom, Setup DB and migrations
+> Misc: Setup Docker containers for PostgreSQL DB and PgAdmin
 
 Project Links:
 	- [Client Repo](https://github.com/Trevis42/client-Amazin)
@@ -165,7 +165,7 @@ Project Links:
 #### Earth BNB
 
 Full-stack application replicating popular bed and breakfast websites.
-![EarthBNB](assets/images/reviews.png) <!-- add image -->
+![](https://trevis42.github.io/assets/images/reviews.png) <!-- add image -->
 
     Languages: AngularJS, Springboot/Java, MySQL
     Roles: Customer reviews and ratings, Server development for reviews
