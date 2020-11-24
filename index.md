@@ -50,6 +50,10 @@ well.
 
 ### Projects
 <!--[link display name](link to project)-->
-- project1
-- project2
-- project3
+#### Work (Various/Recent)
+- [Amazin' Client Repo](https://github.com/Trevis42/client-Amazin)
+- [EarthBnB Client Repo](https://github.com/Trevis42/client-EarthBnB)
+
+#### Person (Fun/Interesting)
+- [Blazor Dice Roller - wip](https://github.com/Trevis42/DiceRoller-BlazorApp)
+  - [Blazor Dice Roller - deployment](https://blazor-dice-roller.netlify.app/)
