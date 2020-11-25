@@ -14,7 +14,8 @@ Feel free to view them in any order.
 ---
 
 <a name="profile"></a>
-### Profile link: _[Trevor's Profile](pages/profile.md)_
+## Profile
+**View my profile here -\>** _[Trevor's Profile](pages/profile.md)_
 
 ---
 
