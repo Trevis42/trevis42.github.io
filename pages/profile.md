@@ -27,8 +27,8 @@ Bachelor of Science, Computing Science
 
 ### ACCOMPLISHMENTS:
 - Earned rank of Eagle Scout at age 16
-- Served a two-year, full-time mission for The Church of Jesus of Christ of Latter-day Saints (Spanish-speaking)
-- [Credly Acclaim badge](https://www.youracclaim.com/badges/d43fa3f7-1fbe-4739-a427-422ae420347a/public_url){:target="\_blank"}, *Certified Full-Stack Developer*, Talent Path
+- Served a two-year, full-time mission (Spanish-speaking) for [The Church of Jesus of Christ of Latter-day Saints](https://www.churchofjesuschrist.org/){:target="\_blank" rel="noopener noreferrer"} 
+- [Credly Acclaim badge](https://www.youracclaim.com/badges/d43fa3f7-1fbe-4739-a427-422ae420347a/public_url){:target="\_blank" rel="noopener noreferrer"}, *Certified Full-Stack Developer*, Talent Path
 
 ---
 
@@ -54,8 +54,8 @@ For all information, please contact **Kiersten Kindred** at Talent Path.
 
 - **Phone Number** : _713-547-4495_
 - **Email Address** : _[kkindred@talentpath.com](mailto:kkindred@talentpath.com)_
-- **LinkedIn Account** : _[Trevor Taylor](https://www.linkedin.com/in/trevordtaylor/){:target="\_blank"}_
-- **GitHub Account** : _[Trevis42](https://github.com/Trevis42){:target="\_blank"}_
+- **LinkedIn Account** : _[Trevor Taylor](https://www.linkedin.com/in/trevordtaylor/){:target="\_blank" rel="noopener noreferrer"} _
+- **GitHub Account** : _[Trevis42](https://github.com/Trevis42){:target="\_blank" rel="noopener noreferrer"} _
 
 ---
 
@@ -140,8 +140,8 @@ Roles: DB setup and management, Client side components (various)
 Misc: Set up MongoDB on their Altas database hosting platform; hosted app on netlify and keroku; uses Yelp API
 
 Project Links: 
-	- [The Virtual N.O.M. client](https://github.com/Trevis42/TheVirtualNOM){:target="\_blank"}
-	- [The Virtual N.O.M. api server](https://github.com/Trevis42/TheVirtualNOMApi){:target="\_blank"}
+	- [The Virtual N.O.M. client](https://github.com/Trevis42/TheVirtualNOM){:target="\_blank" rel="noopener noreferrer"} 
+	- [The Virtual N.O.M. api server](https://github.com/Trevis42/TheVirtualNOMApi){:target="\_blank" rel="noopener noreferrer"} 
 
 ### Headshots
 
@@ -151,20 +151,20 @@ Group ReactJS application with camera and background removal components to take 
 Languages: ReactJS
 Roles: Save Image, Refactoring, Research
 
-Project Link:[Headshots Application](https://github.com/Trevis42/headShotsSiteforTP){:target="\_blank"}
+Project Link:[Headshots Application](https://github.com/Trevis42/headShotsSiteforTP){:target="\_blank" rel="noopener noreferrer"} 
 
 ### Amazin'
 
 Full-stack application replicating popular shopping websites.
-![](https://trevis42.github.io/assets/images/amazinPhotos.png){:target="\_blank"} <!-- add image -->
+![](https://trevis42.github.io/assets/images/amazinPhotos.png) <!-- add image -->
 
 Languages: ReactJS, Springboot/Java, Postgres
 Roles: Image Gallery, Image magnify/zoom, Setup DB and migrations
 Misc: Setup Docker containers for PostgreSQL DB and PgAdmin
 
 Project Links:
-	- [Client Repo](https://github.com/Trevis42/client-Amazin){:target="\_blank"}
-	- [Server Repo](https://github.com/Trevis42/server-Amazin){:target="\_blank"}
+	- [Client Repo](https://github.com/Trevis42/client-Amazin){:target="\_blank" rel="noopener noreferrer"} 
+	- [Server Repo](https://github.com/Trevis42/server-Amazin){:target="\_blank" rel="noopener noreferrer"} 
 
 ### Earth BNB
 
@@ -176,8 +176,8 @@ Roles: Customer reviews and ratings, Server development for reviews
 Misc: Made script to generate 300+ random reviews; Setup Docker container for Mysql DB
 
 Project Links: 
-	- [Client Repo](https://github.com/Trevis42/client-EarthBnB){:target="\_blank"}
-	- [Server Repo](https://github.com/Trevis42/server-EarthBnB){:target="\_blank"}
+	- [Client Repo](https://github.com/Trevis42/client-EarthBnB){:target="\_blank" rel="noopener noreferrer"} 
+	- [Server Repo](https://github.com/Trevis42/server-EarthBnB){:target="\_blank" rel="noopener noreferrer"} 
 
 ---	
 [\<- Back to main page](https://trevis42.github.io/)
