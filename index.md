@@ -14,7 +14,7 @@ Feel free to view them in any order.
 ---
 
 <!--change to profile link-->
-**Profile link: _[Trevor's Profile](pages/profile.md)_** 
+### Profile link: _[Trevor's Profile](pages/profile.md)_
 
 ---
 
