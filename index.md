@@ -3,7 +3,7 @@ layout: default
 title: TrevDev - Main site
 description: Main hub for all my stuff tech related as well as my profile.
 ---
-
+<a name="top"></a>
 # Trevor's Portfolio
 
 ## Welcome to main page
@@ -13,7 +13,7 @@ Feel free to view them in any order.
 
 ---
 
-<!--change to profile link-->
+<a name="profile"></a>
 ### Profile link: _[Trevor's Profile](pages/profile.md)_
 
 ---
@@ -57,3 +57,5 @@ well.
 #### Person (Fun/Interesting)
 - [Blazor Dice Roller - wip](https://github.com/Trevis42/DiceRoller-BlazorApp){:target="\_blank" rel="noopener noreferrer"}
   - [Blazor Dice Roller - deployment](https://blazor-dice-roller.netlify.app/){:target="\_blank" rel="noopener noreferrer"}
+
+**_[Top of page](#top)_** \|\| **_[Profile section](#profile)_**
