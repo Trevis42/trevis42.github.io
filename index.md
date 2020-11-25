@@ -13,12 +13,10 @@ Feel free to view them in any order.
 
 ---
 
-<a name="profile"></a>
 ## Profile
 **View my profile here -\>** _[Trevor's Profile](pages/profile.md)_
 
 ---
-
 
 ## Intro
 **About me...** I have been interested in _technology_ for many years.
@@ -38,7 +36,7 @@ place I would be working -- a Computer Science degree from SHSU.
 
 *[SHSU]: Sam Houston State University
 
-Programming and designing various code projects is something that makes made me happy and helped
+Programming and designing various code projects is something that made me happy and helped
 encouraged me enjoy school and push to complete the degree as soon as possible. I had some
 really interesting course lessons and projects that pushed my intellect and learning. The
 instructors encouraged us to learn on our own with the information they provided. I learned some
@@ -59,4 +57,4 @@ well.
 - [Blazor Dice Roller - wip](https://github.com/Trevis42/DiceRoller-BlazorApp){:target="\_blank" rel="noopener noreferrer"}
   - [Blazor Dice Roller - deployment](https://blazor-dice-roller.netlify.app/){:target="\_blank" rel="noopener noreferrer"}
 
-**_[Top of page](#top)_** \|\| **_[Profile section](#profile)_**
+**_[Top of page](#top)_**
