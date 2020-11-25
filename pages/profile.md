@@ -54,8 +54,8 @@ For all information, please contact **Kiersten Kindred** at Talent Path.
 
 - **Phone Number** : _713-547-4495_
 - **Email Address** : _[kkindred@talentpath.com](mailto:kkindred@talentpath.com)_
-- **LinkedIn Account** : _[Trevor Taylor](https://www.linkedin.com/in/trevordtaylor/){:target="\_blank" rel="noopener noreferrer"} _
-- **GitHub Account** : _[Trevis42](https://github.com/Trevis42){:target="\_blank" rel="noopener noreferrer"} _
+- **LinkedIn Account** : _[Trevor Taylor](https://www.linkedin.com/in/trevordtaylor/){:target="\_blank" rel="noopener noreferrer"}_
+- **GitHub Account** : _[Trevis42](https://github.com/Trevis42){:target="\_blank" rel="noopener noreferrer"}_
 
 ---
 
@@ -180,5 +180,6 @@ Project Links:
 	- [Server Repo](https://github.com/Trevis42/server-EarthBnB){:target="\_blank" rel="noopener noreferrer"} 
 
 ---	
+
 [\<- Back to main page](https://trevis42.github.io/)
-**_[Top of page](#top)_**
+\|\| **_[Top of page](#top)_**
