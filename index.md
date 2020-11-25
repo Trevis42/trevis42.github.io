@@ -51,9 +51,9 @@ well.
 ### Projects
 <!--[link display name](link to project)-->
 #### Work (Various/Recent)
-- [Amazin' Client Repo](https://github.com/Trevis42/client-Amazin){:target="_blank"}
-- [EarthBnB Client Repo](https://github.com/Trevis42/client-EarthBnB){:target="_blank"}
+- [Amazin' Client Repo](https://github.com/Trevis42/client-Amazin){:target="\_blank" rel="noopener noreferrer"}
+- [EarthBnB Client Repo](https://github.com/Trevis42/client-EarthBnB){:target="\_blank" rel="noopener noreferrer"}
 
 #### Person (Fun/Interesting)
-- [Blazor Dice Roller - wip](https://github.com/Trevis42/DiceRoller-BlazorApp){:target="_blank"}
-  - [Blazor Dice Roller - deployment](https://blazor-dice-roller.netlify.app/){:target="_blank"}
+- [Blazor Dice Roller - wip](https://github.com/Trevis42/DiceRoller-BlazorApp){:target="\_blank" rel="noopener noreferrer"}
+  - [Blazor Dice Roller - deployment](https://blazor-dice-roller.netlify.app/){:target="\_blank" rel="noopener noreferrer"}
