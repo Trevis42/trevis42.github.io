@@ -102,7 +102,7 @@ For all information, please contact **Kiersten Kindred** at Talent Path.
 
 ---
 
-### PROFESSIONAL EXPERIENCE:
+## PROFESSIONAL EXPERIENCE:
 **TALENT PATH - HOUSTON, TX	09/2019 – Present**
 FULL STACK DEVELOPER
 - Utilized HTML, CSS, Javascript to create single page web application
