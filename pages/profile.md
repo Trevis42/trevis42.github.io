@@ -135,8 +135,8 @@ CONNECTION CENTER ASSOCIATE
 This project helps users find a place to eat nearby, filtered by selected preferences. Non-filtered preferences will default search radius to 5 miles. We use Yelp API for obtaining our data and store the searches in a database to minimize calls to the API sever, allowing for faster queries and filtering during a session (especially when location does not change but distance does). This image shows sample data from a document in the database. 
 ![](https://trevis42.github.io/assets/images/VNOMdata.png)
 
-Languages: MongoDB, Express, React, Node
-Roles: DB setup and management, Client side components (various)
+Languages: MongoDB, Express, React, Node  
+Roles: DB setup and management, Client side components (various)  
 Misc: Set up MongoDB on their Altas database hosting platform; hosted app on netlify and keroku; uses Yelp API
 
 Project Links: 
@@ -148,7 +148,7 @@ Project Links:
 Group ReactJS application with camera and background removal components to take professional pictures.
 ![](https://trevis42.github.io/assets/images/headshotsimage.png) <!-- add image -->
 
-Languages: ReactJS
+Languages: ReactJS  
 Roles: Save Image, Refactoring, Research
 
 Project Link:[Headshots Application](https://github.com/Trevis42/headShotsSiteforTP){:target="\_blank" rel="noopener noreferrer"} 
@@ -158,8 +158,8 @@ Project Link:[Headshots Application](https://github.com/Trevis42/headShotsSitefo
 Full-stack application replicating popular shopping websites.
 ![](https://trevis42.github.io/assets/images/amazinPhotos.png) <!-- add image -->
 
-Languages: ReactJS, Springboot/Java, Postgres
-Roles: Image Gallery, Image magnify/zoom, Setup DB and migrations
+Languages: ReactJS, Springboot/Java, Postgres  
+Roles: Image Gallery, Image magnify/zoom, Setup DB and migrations  
 Misc: Setup Docker containers for PostgreSQL DB and PgAdmin
 
 Project Links:
@@ -171,8 +171,8 @@ Project Links:
 Full-stack application replicating popular bed and breakfast websites.
 ![](https://trevis42.github.io/assets/images/reviews.png) <!-- add image -->
 
-Languages: AngularJS, Springboot/Java, MySQL
-Roles: Customer reviews and ratings, Server development for reviews
+Languages: AngularJS, Springboot/Java, MySQL  
+Roles: Customer reviews and ratings, Server development for reviews  
 Misc: Made script to generate 300+ random reviews; Setup Docker container for Mysql DB
 
 Project Links: 
