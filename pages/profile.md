@@ -10,7 +10,7 @@ description: Professional Profile Page
 ---
 ## About me
 ### Professional Summary
-_I have intermediate experience in C#, Java, Python, and Java, as well various front-end frameworks like React. I have (self-taught) working knowledge of Docker Containers, including deploying local database containers for development._
+_I have intermediate experience in C#, Java, Python, and Javascript, as well various front-end frameworks like React. I have (self-taught) working knowledge of Docker Containers, including deploying local database containers for development._
 
 _My methodical research of each new programming language I learn fosters an early, comprehensive knowledge base that allows me to expedite projects._
 
@@ -178,6 +178,19 @@ Misc: Made script to generate 300+ random reviews; Setup Docker container for My
 Project Links: 
 	- [Client Repo](https://github.com/Trevis42/client-EarthBnB){:target="\_blank" rel="noopener noreferrer"} 
 	- [Server Repo](https://github.com/Trevis42/server-EarthBnB){:target="\_blank" rel="noopener noreferrer"} 
+	
+### Galactic BNB
+
+Full-stack application adding search and results pages to Earth BnB application.
+![](https://trevis42.github.io/assets/images/reviews.png) <!-- add image -->
+
+Languages: AngularJS, Springboot/Java, MySQL  
+Roles: More Filters module/component, Server development for More filters component, maintained/fixed migration files  
+Misc: Setup Docker container for Mysql DB
+
+Project Links: 
+	- [Client Repo](https://github.com/Trevis42/client-GalacticBnB){:target="\_blank" rel="noopener noreferrer"} 
+	- [Server Repo](https://github.com/Trevis42/server-GalacticBnB){:target="\_blank" rel="noopener noreferrer"} 
 
 ---	
 
