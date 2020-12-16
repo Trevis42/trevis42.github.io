@@ -151,7 +151,7 @@ Group ReactJS application with camera and background removal components to take 
 Languages: ReactJS  
 Roles: Save Image, Refactoring, Research
 
-Project Link:[Headshots Application](https://github.com/Trevis42/headShotsSiteforTP){:target="\_blank" rel="noopener noreferrer"} 
+Project Link: [Headshots Application](https://github.com/Trevis42/headShotsSiteforTP){:target="\_blank" rel="noopener noreferrer"} 
 
 ### Amazin'
 
@@ -182,7 +182,7 @@ Project Links:
 ### Galactic BNB
 
 Full-stack application adding search and results pages to Earth BnB application.
-![](https://trevis42.github.io/assets/images/reviews.png) <!-- add image -->
+![](https://trevis42.github.io/assets/images/morefilters.png) <!-- add image -->
 
 Languages: AngularJS, Springboot/Java, MySQL  
 Roles: More Filters module/component, Server development for More filters component, maintained/fixed migration files  
