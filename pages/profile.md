@@ -50,10 +50,8 @@ Tennis
 
 ### Contact Information
 
-For all information, please contact **Kiersten Kindred** at Talent Path.
-
-- **Phone Number** : _713-547-4495_
-- **Email Address** : _[kkindred@talentpath.com](mailto:kkindred@talentpath.com)_
+- **Phone Number** : _832-797-5845_
+- **Email Address** : _[trevor.d.taylor86@gmail.com](mailto:trevor.d.taylor86@gmail.com)_
 - **LinkedIn Account** : _[Trevor Taylor](https://www.linkedin.com/in/trevordtaylor/){:target="\_blank" rel="noopener noreferrer"}_
 - **GitHub Account** : _[Trevis42](https://github.com/Trevis42){:target="\_blank" rel="noopener noreferrer"}_
 
@@ -88,8 +86,8 @@ For all information, please contact **Kiersten Kindred** at Talent Path.
 - Java
 
 ### SKILLS FOLLOWING TALENT PATH TRAINING:
-- Strong: React.js, Redux RSpec, TDD, BDD, Git, Heroku, API dev, Agile, SQL Databases
-- Experienced: Ruby, Ruby on Rails, HTML, CSS, SASS, JavaScript
+- Expereinced: React.js, Redux RSpec, TDD, BDD, Git, Heroku, API dev, Agile, SQL Databases
+- Experienced: HTML, CSS, SASS, JavaScript
 - Semantic HTML focused on accessibility and SEO
 - Advanced CSS including grid, flexbox, and responsive design
 - Modern JavaScript from ES6 and beyond
@@ -103,13 +101,15 @@ For all information, please contact **Kiersten Kindred** at Talent Path.
 ---
 
 ## PROFESSIONAL EXPERIENCE:
-**TALENT PATH - HOUSTON, TX	09/2019 – Present**
+**TALENT PATH - HOUSTON, TX	09/2019 – 12/2020**
 FULL STACK DEVELOPER
 - Utilized HTML, CSS, Javascript to create single page web application
 - Created Multi-page web applications through use of React, React Router and Express servers
 - Hosted pages through Netlify with Heroku for Continuous Integration
 - Capstone project features all skills learned through training process
 - Worked in small teams using paired programming and Agile methodolies
+- Created Spring Boot API servers for various projects
+- Conneted API servers to either PostgreSQL or MySql with Flyway migration
 
 **SYSCO FOODS - HOUSTON, TX	01/2020 – 05/2020**
 FULL STACK DEVELOPER
