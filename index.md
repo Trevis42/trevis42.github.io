@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Trevor Taylor
-description: Main hub for my profile and all things tech related.
+description: Homepage for my profile and all things tech related.
 ---
 <a name="top"></a>
 # Portfolio
 
-## Welcome to main page
+## Welcome!
 Thank you for visiting my site,
 Here you will find links to my profile as well as various projects I have on github.
 Feel free to view them in any order.
