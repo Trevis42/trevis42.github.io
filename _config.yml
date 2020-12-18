@@ -5,8 +5,8 @@ theme: jekyll-theme-time-machine
 exclude: ["README.md", "License.md"]
 highlighter: rouge
 
-title: Trevor Taylor's Portfolio
-description: Main hub for my profile and all things tech related.
+title: Portfolio
+description: Homepage for my profile and all things tech related.
 
 author:
     name: Trevor Taylor
