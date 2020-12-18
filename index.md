@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trevor's Porfolio Homepage
+title: Trevor Taylor
 description: Main hub for my profile and all things tech related.
 ---
 <a name="top"></a>
