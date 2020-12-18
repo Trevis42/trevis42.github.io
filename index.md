@@ -1,10 +1,10 @@
 ---
 layout: default
-title: TrevDev - Main site
-description: Main hub for all my stuff tech related as well as my profile.
+title: Trevor's Porfolio Homepage
+description: Main hub for my profile and all things tech related.
 ---
 <a name="top"></a>
-# Trevor's Portfolio
+# Portfolio
 
 ## Welcome to main page
 Thank you for visiting my site,
