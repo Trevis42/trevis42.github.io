@@ -52,7 +52,7 @@ well.
 #### Work (Various/Recent)
 - [Amazin' Client Repo](https://github.com/Trevis42/client-Amazin){:target="\_blank" rel="noopener noreferrer"}  
 - [EarthBnB Client Repo](https://github.com/Trevis42/client-EarthBnB){:target="\_blank" rel="noopener noreferrer"}  
-- [GalitciBnB Client Repo](https://github.com/Trevis42/client-GalacticBnB){:target="\_blank" rel="noopener noreferrer"}
+- [GalacticBnB Client Repo](https://github.com/Trevis42/client-GalacticBnB){:target="\_blank" rel="noopener noreferrer"}
 
 #### Person (Fun/Interesting)
 - [Blazor Dice Roller - wip](https://github.com/Trevis42/DiceRoller-BlazorApp){:target="\_blank" rel="noopener noreferrer"}
