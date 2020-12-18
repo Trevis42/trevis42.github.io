@@ -7,7 +7,7 @@ description: Homepage for my profile and all things tech related.
 # Portfolio
 
 ## Welcome!
-Thank you for visiting my site,
+Thank you for visiting my portfolio site.  
 Here you will find links to my profile as well as various projects I have on github.
 Feel free to view them in any order.
 
@@ -50,8 +50,9 @@ well.
 ### Projects
 <!--[link display name](link to project)-->
 #### Work (Various/Recent)
-- [Amazin' Client Repo](https://github.com/Trevis42/client-Amazin){:target="\_blank" rel="noopener noreferrer"}
-- [EarthBnB Client Repo](https://github.com/Trevis42/client-EarthBnB){:target="\_blank" rel="noopener noreferrer"}
+- [Amazin' Client Repo](https://github.com/Trevis42/client-Amazin){:target="\_blank" rel="noopener noreferrer"}  
+- [EarthBnB Client Repo](https://github.com/Trevis42/client-EarthBnB){:target="\_blank" rel="noopener noreferrer"}  
+- [GalitciBnB Client Repo](https://github.com/Trevis42/client-GalacticBnB){:target="\_blank" rel="noopener noreferrer"}
 
 #### Person (Fun/Interesting)
 - [Blazor Dice Roller - wip](https://github.com/Trevis42/DiceRoller-BlazorApp){:target="\_blank" rel="noopener noreferrer"}
