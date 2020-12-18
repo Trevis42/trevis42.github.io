@@ -5,8 +5,8 @@ theme: jekyll-theme-time-machine
 exclude: ["README.md", "License.md"]
 highlighter: rouge
 
-title: TrevDev - Main site
-description: Main hub for all my stuff tech related as well as my profile.
+title: Trevor Taylor
+description: Main hub for all my profile and all things tech related.
 
 author:
     name: Trevor Taylor
