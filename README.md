@@ -1,8 +1,8 @@
 # trevis.github.io
 
-## Testing gh pages
+## Trying out gh pages
 
-This repos is to test github pages [located here.](https://trevis42.github.io "Test github pages site")
+This repos is to try out github pages [located here.](https://trevis42.github.io "Test github pages site"), as well as to learn how to use Markdown more effeciently.
 
 In the **gh-pages** branch there are several files:
 - index.md
@@ -15,4 +15,4 @@ In the **gh-pages** branch there are several files:
 - README.md
   - this one is currently being used as standard readme instead of main page that is turned into `index.html` by github pages.
   
-__I hope this helps you understand more aboue the site__
+__I hope this helps you understand more about the site__
