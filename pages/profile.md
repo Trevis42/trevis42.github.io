@@ -32,17 +32,14 @@ Bachelor of Science, Computing Science
 
 #### Years Of Experience
 
-IT Experience: 1 year
-Digital Dental Solutions – IT Tech assistant
-Talent Path- Full Stack Engineer
-**Overall Experience: 9 years**
+  **IT Experience:** 1 year @ Digital Dental Solutions – IT Tech Assistant  
+  **Full Stack Experience:** 1 year 4 months @ Talent Path – Full Stack Developer  
+  _**Overall Experience: 9 years**_
   
 #### Hobbies \| Passions
 
-Board games  
-Puzzles  
-Ultimate frisbee  
-Tennis  
+  Board games \| Puzzles  
+  Ultimate frisbee \| Tennis  
 
 ---
 
