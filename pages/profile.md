@@ -84,7 +84,7 @@ _I intuitively promote harmony and teamwork by expressing appreciation for the c
 
 #### Skills Following Talent Path Training:
 
-- Expereinced: React.js, Redux RSpec, TDD, BDD, Git, Heroku, API dev, Agile, SQL Databases
+- Experienced: React.js, Redux RSpec, TDD, BDD, Git, Heroku, API dev, Agile, SQL Databases
 - Experienced: HTML, CSS, SASS, JavaScript
 - Semantic HTML focused on accessibility and SEO
 - Advanced CSS including grid, flexbox, and responsive design
