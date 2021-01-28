@@ -38,20 +38,17 @@ I continue to learn new technology and skills on my own. I strive to apply this 
 
 ---
 
-## Projects
+## Projects 
+
 <!--[link display name](link to project)-->
 #### Work projects 
+
 - [Amazin' Client Repo](https://github.com/Trevis42/client-Amazin){:target="\_blank" rel="noopener noreferrer"}  
 - [EarthBnB Client Repo](https://github.com/Trevis42/client-EarthBnB){:target="\_blank" rel="noopener noreferrer"}  
 - [GalacticBnB Client Repo](https://github.com/Trevis42/client-GalacticBnB){:target="\_blank" rel="noopener noreferrer"}
 
 #### Personal Projects 
-<span style: 
-"font-size: 18px;
-line-height: 24px;
-font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-font-weight: normal;
-color: #b6b6b6;">Personal Projects</span> 
+
 - [Blazor Dice Roller - wip](https://github.com/Trevis42/DiceRoller-BlazorApp){:target="\_blank" rel="noopener noreferrer"}
   - [Blazor Dice Roller - deployment](https://blazor-dice-roller.netlify.app/){:target="\_blank" rel="noopener noreferrer"}
   
