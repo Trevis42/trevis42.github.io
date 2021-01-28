@@ -137,7 +137,7 @@ This project helps users find a place to eat nearby, filtered by selected prefer
 
 Languages: MongoDB, Express, React, Node  
 Roles: DB setup and management, Client side components (various)  
-Misc: Set up MongoDB on their Altas database hosting platform; hosted app on netlify and keroku; uses Yelp API
+Misc: Set up MongoDB on their Altas database hosting platform; hosted app on Netlify and Heroku; uses Yelp API
 
 Project Links: 
 	- [The Virtual N.O.M. client](https://github.com/Trevis42/TheVirtualNOM){:target="\_blank" rel="noopener noreferrer"} 
