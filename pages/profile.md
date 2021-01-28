@@ -9,28 +9,25 @@ description: Professional Profile Page
 
 ---
 ### ABOUT ME
+
 #### Professional Summary
+
 _I have intermediate experience in C#, Java, Python, and Javascript, as well various front-end frameworks like React. I have (self-taught) working knowledge of Docker Containers, including deploying local database containers for development._
 
 _My methodical research of each new programming language I learn fosters an early, comprehensive knowledge base that allows me to expedite projects._
 
 _I intuitively promote harmony and teamwork by expressing appreciation for the contributions and achievements of others, which encourages a peaceful, productive work environment, and results in an excellent product._
 
----
-
 #### Education:
 
 **SAM HOUSTON STATE UNIVERSITY - HUNTSVILLE, TX**
 Bachelor of Science, Computing Science
 
----
-
 #### Accomplishments \| Certificates:
+
 - Earned rank of Eagle Scout at age 16
 - Served a two-year, full-time mission (Spanish-speaking) for [The Church of Jesus of Christ of Latter-day Saints](https://www.churchofjesuschrist.org/){:target="\_blank" rel="noopener noreferrer"} 
 - [Credly Acclaim badge](https://www.youracclaim.com/badges/d43fa3f7-1fbe-4739-a427-422ae420347a/public_url){:target="\_blank" rel="noopener noreferrer"}, *Certified Full-Stack Developer*, Talent Path
-
----
 
 #### Years Of Experience
 
@@ -58,6 +55,7 @@ Tennis
 ---
 
 ### TECHNICAL SKILLS AND STRENGTHS:
+
 - Intermediate experience in C++, C#, Java, Python, Android with Xamarin and Java
 - Used GitHub and Tortoise SVN for version control
 - Understanding of software development life-cycle and object-oriented programming
@@ -74,7 +72,8 @@ Tennis
 - Team player
 - Perpetual seeker of knowledge
 
-#### Software Engineering Skills
+#### Software Engineering Skills:
+
 - Git
 - HTML
 - CSS
@@ -86,6 +85,7 @@ Tennis
 - Java
 
 #### Skills Following Talent Path Training:
+
 - Expereinced: React.js, Redux RSpec, TDD, BDD, Git, Heroku, API dev, Agile, SQL Databases
 - Experienced: HTML, CSS, SASS, JavaScript
 - Semantic HTML focused on accessibility and SEO
@@ -101,6 +101,7 @@ Tennis
 ---
 
 ### PROFESSIONAL EXPERIENCE:
+
 **TALENT PATH - HOUSTON, TX	09/2019 – 12/2020**
 FULL STACK DEVELOPER
 - Utilized HTML, CSS, Javascript to create single page web application
@@ -130,6 +131,7 @@ CONNECTION CENTER ASSOCIATE
 ---
 
 ### MOST RELEVANT PROJECTS/WORK:
+
 #### The Virtual N.O.M.
 
 This project helps users find a place to eat nearby, filtered by selected preferences. Non-filtered preferences will default search radius to 5 miles. We use Yelp API for obtaining our data and store the searches in a database to minimize calls to the API sever, allowing for faster queries and filtering during a session (especially when location does not change but distance does). This image shows sample data from a document in the database. 
