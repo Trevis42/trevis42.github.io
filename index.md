@@ -48,11 +48,6 @@ I continue to learn new technology and skills on my own. I strive to apply this 
 - [GalacticBnB Client Repo](https://github.com/Trevis42/client-GalacticBnB){:target="\_blank" rel="noopener noreferrer"}
 
 #### Personal Projects 
-Personal Projects{:style= font-size: 18px;
-line-height: 24px;
-font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-font-weight: normal;
-color: #b6b6b6;}
 
 - [Blazor Dice Roller - wip](https://github.com/Trevis42/DiceRoller-BlazorApp){:target="\_blank" rel="noopener noreferrer"}
   - [Blazor Dice Roller - deployment](https://blazor-dice-roller.netlify.app/){:target="\_blank" rel="noopener noreferrer"}
