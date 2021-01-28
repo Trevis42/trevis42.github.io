@@ -31,15 +31,13 @@ Bachelor of Science, Computing Science
 - [Credly Acclaim badge](https://www.youracclaim.com/badges/d43fa3f7-1fbe-4739-a427-422ae420347a/public_url){:target="\_blank" rel="noopener noreferrer"}, *Certified Full-Stack Developer*, Talent Path
 
 #### Years Of Experience:
-
-&nbsp
+&nbsp;
 : **IT Experience:** 1 year @ Digital Dental Solutions – IT Tech Assistant  
 : **Full Stack Experience:** 1 year 4 months @ Talent Path – Full Stack Developer  
 : _**Overall Experience: 9 years**_
   
 #### Hobbies \| Passions:
-
-&nbsp
+&nbsp;
 : Board games \| Puzzles  
 : Ultimate frisbee \| Tennis  
 
