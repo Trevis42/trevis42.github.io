@@ -21,7 +21,7 @@ _I intuitively promote harmony and teamwork by expressing appreciation for the c
 
 #### Education:
 
-- **SAM HOUSTON STATE UNIVERSITY - HUNTSVILLE, TX** 
+- **SAM HOUSTON STATE UNIVERSITY - HUNTSVILLE, TX**  
   Bachelor of Science, Computing Science
 
 #### Accomplishments \| Certificates:
