@@ -21,8 +21,8 @@ _I intuitively promote harmony and teamwork by expressing appreciation for the c
 
 #### Education:
 
-**SAM HOUSTON STATE UNIVERSITY - HUNTSVILLE, TX**
-Bachelor of Science, Computing Science
+- **SAM HOUSTON STATE UNIVERSITY - HUNTSVILLE, TX** 
+  Bachelor of Science, Computing Science
 
 #### Accomplishments \| Certificates:
 
@@ -32,13 +32,14 @@ Bachelor of Science, Computing Science
 
 #### Years Of Experience:
 
-&nbsp;&nbsp;**IT Experience:** 1 year @ Digital Dental Solutions – IT Tech Assistant  
-&nbsp;&nbsp;**Full Stack Experience:** 1 year 4 months @ Talent Path – Full Stack Developer  
-&nbsp;&nbsp;**Overall Experience: 9 years**_
+- **IT Experience:** 1 year @ Digital Dental Solutions – IT Tech Assistant  
+- **Full Stack Experience:** 1 year 4 months @ Talent Path – Full Stack Developer  
+- **Overall Experience: 9 years**_
   
 #### Hobbies \| Passions:
-[tab][space]Board games \| Puzzles  
-&nbsp;&nbsp;Ultimate frisbee \| Tennis  
+
+- Board games \| Puzzles  
+- Ultimate frisbee \| Tennis  
 
 ---
 
