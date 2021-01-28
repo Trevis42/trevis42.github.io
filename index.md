@@ -51,5 +51,8 @@ I continue to learn new technology and skills on my own. I strive to apply this 
 
 - [Blazor Dice Roller - wip](https://github.com/Trevis42/DiceRoller-BlazorApp){:target="\_blank" rel="noopener noreferrer"}
   - [Blazor Dice Roller - deployment](https://blazor-dice-roller.netlify.app/){:target="\_blank" rel="noopener noreferrer"}
-  
-[My LinkedIn](https://www.linkedin.com/in/trevordtaylor/){:target="\_blank" rel="noopener noreferrer"} 
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/trevordtaylor/){:target="\_blank" rel="noopener noreferrer"}
+\| [Github](https://github.com/Trevis42){:target="\_blank" rel="noopener noreferrer"}
