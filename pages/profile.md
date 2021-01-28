@@ -195,4 +195,5 @@ Project Links:
 ---	
 
 [\<- Back to main page](https://trevis42.github.io/)
-\|\| [My LinkedIn](https://www.linkedin.com/in/trevordtaylor/){:target="\_blank" rel="noopener noreferrer"}
+\|\| [LinkedIn](https://www.linkedin.com/in/trevordtaylor/){:target="\_blank" rel="noopener noreferrer"}
+\| [Github](https://github.com/Trevis42){:target="\_blank" rel="noopener noreferrer"}
