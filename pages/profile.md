@@ -114,10 +114,10 @@ FULL STACK DEVELOPER
 **SYSCO FOODS - HOUSTON, TX	01/2020 – 05/2020**
 FULL STACK DEVELOPER
 - Trained new support techs in ServiceNow, the support ticketing system used by Sysco 
-- Assisted in remote access support for various cases; Helped resolve major issues which impacted large groups of Marketing Associates;
-- Created, maintained and shared documentation to resolve regularly occurring issues that were 80% of the tickets received each day. This resulted in a decrease in these cases allowing for focus to be placed on more pressing, difficult tickets and issues.
-- Reduced open ticket overhead by almost 70% in 2 months; Maintained less than 80 open tickets down from over 200 for another 3 months.
-- Provided feedback to Dev team regarding bug reports and possible fixes, changes/updates users would like to see in the app.
+- Assisted in remote access support for various cases; Helped resolve major issues which impacted large groups of Marketing Associates
+- Created, maintained and shared documentation to resolve regularly occurring issues that were 80% of the tickets received each day. This resulted in a decrease in these cases allowing for focus to be placed on more pressing, difficult tickets and issues
+- Reduced open ticket overhead by almost 70% in 2 months; Maintained less than 80 open tickets down from over 200 for another 3 months
+- Provided feedback to Dev team regarding bug reports and possible fixes, changes/updates users would like to see in the app
 
 **SAM’S CLUB - SHENANDOAH, TX	09/2012 – 08/2018**
 CONNECTION CENTER ASSOCIATE
