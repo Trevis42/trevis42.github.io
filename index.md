@@ -4,7 +4,6 @@ title: Trevor Taylor
 description: Homepage for my profile and all things tech related.
 ---
 
-<a name="top"></a>
 # My Portfolio
 
 ---
@@ -49,5 +48,3 @@ I continue to learn new technology and skills on my own. I strive to apply this 
 ### Personal (Fun/Interesting)
 - [Blazor Dice Roller - wip](https://github.com/Trevis42/DiceRoller-BlazorApp){:target="\_blank" rel="noopener noreferrer"}
   - [Blazor Dice Roller - deployment](https://blazor-dice-roller.netlify.app/){:target="\_blank" rel="noopener noreferrer"}
-
-**_[Top of page](#top)_**
