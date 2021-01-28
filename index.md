@@ -5,7 +5,9 @@ description: Homepage for my profile and all things tech related.
 ---
 
 <a name="top"></a>
-# Portfolio
+# My Portfolio
+
+---
 
 ## Welcome!
 Thank you for visiting my portfolio site.  
