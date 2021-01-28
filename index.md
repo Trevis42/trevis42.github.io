@@ -40,12 +40,13 @@ I continue to learn new technology and skills on my own. I strive to apply this 
 
 ## Projects
 <!--[link display name](link to project)-->
-#### Work projects
+#### Work projects 
 - [Amazin' Client Repo](https://github.com/Trevis42/client-Amazin){:target="\_blank" rel="noopener noreferrer"}  
 - [EarthBnB Client Repo](https://github.com/Trevis42/client-EarthBnB){:target="\_blank" rel="noopener noreferrer"}  
 - [GalacticBnB Client Repo](https://github.com/Trevis42/client-GalacticBnB){:target="\_blank" rel="noopener noreferrer"}
 
-#### Personal Projects <span style: 
+#### Personal Projects 
+<span style: 
 "font-size: 18px;
 line-height: 24px;
 font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
