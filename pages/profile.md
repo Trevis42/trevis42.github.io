@@ -4,10 +4,11 @@ title: Trevor's Profile
 description: Professional Profile Page
 ---
 
-[\<- Back to main page](https://trevis42.github.io/)
+<!-- [\<- Back to main page](https://trevis42.github.io/) -->
 # TREVOR TAYLOR
 
 ---
+
 ### ABOUT ME
 
 #### Professional Summary
