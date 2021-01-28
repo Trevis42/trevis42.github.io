@@ -4,7 +4,6 @@ title: Trevor's Profile
 description: Professional Profile Page
 ---
 
-<a name="top"></a>
 [\<- Back to main page](https://trevis42.github.io/)
 # TREVOR TAYLOR
 
@@ -196,4 +195,4 @@ Project Links:
 ---	
 
 [\<- Back to main page](https://trevis42.github.io/)
-\|\| **_[Top of page](#top)_**
+\|\| [My LinkedIn](https://www.linkedin.com/in/trevordtaylor/)
