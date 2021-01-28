@@ -39,10 +39,10 @@ Talent Path- Full Stack Engineer
   
 #### Hobbies \| Passions
 
-Board games
-Puzzles
-Ultimate frisbee
-Tennis
+Board games  
+Puzzles  
+Ultimate frisbee  
+Tennis  
 
 ---
 
