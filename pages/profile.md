@@ -11,7 +11,7 @@ description: Professional Profile Page
 
 ### ABOUT ME
 
-#### Professional Summary
+#### Professional Summary:
 
 _I have intermediate experience in C#, Java, Python, and Javascript, as well various front-end frameworks like React. I have (self-taught) working knowledge of Docker Containers, including deploying local database containers for development._
 
@@ -30,16 +30,18 @@ Bachelor of Science, Computing Science
 - Served a two-year, full-time mission (Spanish-speaking) for [The Church of Jesus of Christ of Latter-day Saints](https://www.churchofjesuschrist.org/){:target="\_blank" rel="noopener noreferrer"} 
 - [Credly Acclaim badge](https://www.youracclaim.com/badges/d43fa3f7-1fbe-4739-a427-422ae420347a/public_url){:target="\_blank" rel="noopener noreferrer"}, *Certified Full-Stack Developer*, Talent Path
 
-#### Years Of Experience
+#### Years Of Experience:
 
-  **IT Experience:** 1 year @ Digital Dental Solutions – IT Tech Assistant  
-  **Full Stack Experience:** 1 year 4 months @ Talent Path – Full Stack Developer  
-  _**Overall Experience: 9 years**_
+&nbsp
+: **IT Experience:** 1 year @ Digital Dental Solutions – IT Tech Assistant  
+: **Full Stack Experience:** 1 year 4 months @ Talent Path – Full Stack Developer  
+: _**Overall Experience: 9 years**_
   
-#### Hobbies \| Passions
+#### Hobbies \| Passions:
 
-  Board games \| Puzzles  
-  Ultimate frisbee \| Tennis  
+&nbsp
+: Board games \| Puzzles  
+: Ultimate frisbee \| Tennis  
 
 ---
 
