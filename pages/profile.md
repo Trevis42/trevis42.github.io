@@ -3,8 +3,9 @@ layout: default
 title: Trevor's Profile
 description: Professional Profile Page
 ---
-[\<- Back to main page](https://trevis42.github.io/)
+
 <a name="top"></a>
+[\<- Back to main page](https://trevis42.github.io/)
 # TREVOR TAYLOR
 
 ---
