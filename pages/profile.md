@@ -54,7 +54,7 @@ _I intuitively promote harmony and teamwork by expressing appreciation for the c
 
 ### TECHNICAL SKILLS AND STRENGTHS:
 
-- Intermediate experience in C++, C#, Java, Python, Android with Xamarin and Java
+- Intermediate experience in C++, C#, Java, Python, Android with Xamarin, Docker and Java
 - Used GitHub and Tortoise SVN for version control
 - Understanding of software development life-cycle and object-oriented programming
 - Working knowledge of database management systems with SQLite, assembly, software engineering, data structures, and algorithms
