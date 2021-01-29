@@ -26,7 +26,7 @@ Feel free to view them in any order.
 Throughout my education I continued to learn and study, hoping to grow my knowledge and understanding of techology to one day better the world around me. I started this curiosity with my love of Lego sets and what I could build with them. I decided to pursue engineering in college to put that curiosity and creativity to use. While studing Mechanical Engineering, I found it not as fulfilling as I had hoped. I switched to Computer Engineering a year later. I enjoyed learning the Electrical Engineering side of that major but found a true passion for Computer Science.
 
 I then tried my hand at game design programming because it interested me and allowed me to develop programming skills. I started that learning at Lone Star College - Kingwood. 
-I found my self enjoying the programming side of that more than the game design side. This lead me to focus on programming and get a degree I could utilize in nearly any aspect of my career -- a Computer Science degree from SHSU.
+I found myself enjoying the programming side of that more than the game design side. This lead me to focus on programming and get a degree I could utilize in nearly any aspect of my career -- a Computer Science degree from SHSU.
 
 *[SHSU]: Sam Houston State University
 
