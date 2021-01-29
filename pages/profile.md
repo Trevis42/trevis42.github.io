@@ -26,9 +26,9 @@ _I intuitively promote harmony and teamwork by expressing appreciation for the c
 
 #### Accomplishments \| Certificates:
 
+- [Credly Acclaim badge](https://www.youracclaim.com/badges/d43fa3f7-1fbe-4739-a427-422ae420347a/public_url){:target="\_blank" rel="noopener noreferrer"}, *Certified Full-Stack Developer*, Talent Path
 - Earned rank of Eagle Scout at age 16
 - Served a two-year, full-time mission (Spanish-speaking) for [The Church of Jesus of Christ of Latter-day Saints](https://www.churchofjesuschrist.org/){:target="\_blank" rel="noopener noreferrer"} 
-- [Credly Acclaim badge](https://www.youracclaim.com/badges/d43fa3f7-1fbe-4739-a427-422ae420347a/public_url){:target="\_blank" rel="noopener noreferrer"}, *Certified Full-Stack Developer*, Talent Path
 
 #### Years Of Experience:
 
@@ -106,9 +106,9 @@ FULL STACK DEVELOPER
 - Created Multi-page web applications through use of React, React Router and Express servers
 - Hosted pages through Netlify with Heroku for Continuous Integration
 - Capstone project features all skills learned through training process
-- Worked in small teams using paired programming and Agile methodolies
+- Worked in small teams using paired programming and Agile methodologies
 - Created Spring Boot API servers for various projects
-- Conneted API servers to either PostgreSQL or MySql with Flyway migration
+- Connected API servers to either PostgreSQL or MySql with Flyway migration
 
 **SYSCO FOODS - HOUSTON, TX	01/2020 – 05/2020**
 FULL STACK DEVELOPER - CONTRACT
@@ -135,9 +135,9 @@ CONNECTION CENTER ASSOCIATE
 This project helps users find a place to eat nearby, filtered by selected preferences. Non-filtered preferences will default search radius to 5 miles. We use Yelp API for obtaining our data and store the searches in a database to minimize calls to the API sever, allowing for faster queries and filtering during a session (especially when location does not change but distance does). This image shows sample data from a document in the database. 
 ![](https://trevis42.github.io/assets/images/VNOMdata.png)
 
-Languages: MongoDB, Express, React, Node  
+Tech Stack: MongoDB, Express, React, Node  
 Roles: DB setup and management, Client side components (various)  
-Misc: Set up MongoDB on their Altas database hosting platform; hosted app on Netlify and Heroku; uses Yelp API
+Misc: Set up MongoDB on their Atlas database hosting platform; hosted app on Netlify and Heroku; uses Yelp API
 
 Project Links: 
 	- [The Virtual N.O.M. client](https://github.com/Trevis42/TheVirtualNOM){:target="\_blank" rel="noopener noreferrer"} 
@@ -148,7 +148,7 @@ Project Links:
 Group ReactJS application with camera and background removal components to take professional pictures.
 ![](https://trevis42.github.io/assets/images/headshotsimage.png) <!-- add image -->
 
-Languages: ReactJS  
+Tech Stack: ReactJS  
 Roles: Save Image, Refactoring, Research
 
 Project Link: [Headshots Application](https://github.com/Trevis42/headShotsSiteforTP){:target="\_blank" rel="noopener noreferrer"} 
@@ -158,7 +158,7 @@ Project Link: [Headshots Application](https://github.com/Trevis42/headShotsSitef
 Full-stack application replicating popular shopping websites.
 ![](https://trevis42.github.io/assets/images/amazinPhotos.png) <!-- add image -->
 
-Languages: ReactJS, Springboot/Java, Postgres  
+Tech Stack: ReactJS, Springboot/Java, Postgres  
 Roles: Image Gallery, Image magnify/zoom, Setup DB and migrations  
 Misc: Setup Docker containers for PostgreSQL DB and PgAdmin
 
@@ -171,7 +171,7 @@ Project Links:
 Full-stack application replicating popular bed and breakfast websites.
 ![](https://trevis42.github.io/assets/images/reviews.png) <!-- add image -->
 
-Languages: AngularJS, Springboot/Java, MySQL  
+Tech Stack: AngularJS, Springboot/Java, MySQL  
 Roles: Customer reviews and ratings, Server development for reviews  
 Misc: Made script to generate 300+ random reviews; Setup Docker container for Mysql DB
 
@@ -184,7 +184,7 @@ Project Links:
 Full-stack application adding search and results pages to Earth BnB application.
 ![](https://trevis42.github.io/assets/images/morefilters.png) <!-- add image -->
 
-Languages: AngularJS, Springboot/Java, MySQL  
+Tech Stack: AngularJS, Springboot/Java, MySQL  
 Roles: More Filters module/component, Server development for More filters component, maintained/fixed migration files  
 Misc: Setup Docker container for Mysql DB
 
