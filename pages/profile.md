@@ -111,7 +111,7 @@ FULL STACK DEVELOPER
 - Connected API servers to either PostgreSQL or MySql with Flyway migration
 
 **SYSCO FOODS - HOUSTON, TX	01/2020 – 05/2020**
-FULL STACK DEVELOPER - CONTRACT
+FULL STACK DEVELOPER - Consultant
 - Trained new support techs in ServiceNow, the support ticketing system used by Sysco 
 - Assisted in remote access support for various cases; Helped resolve major issues which impacted large groups of Marketing Associates
 - Created, maintained and shared documentation to resolve regularly occurring issues that were 80% of the tickets received each day. This resulted in a decrease in these cases allowing for focus to be placed on more pressing, difficult tickets and issues
