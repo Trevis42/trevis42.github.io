@@ -27,8 +27,8 @@ _I intuitively promote harmony and teamwork by expressing appreciation for the c
 #### Accomplishments \| Certificates:
 
 - [Credly Acclaim badge](https://www.youracclaim.com/badges/d43fa3f7-1fbe-4739-a427-422ae420347a/public_url){:target="\_blank" rel="noopener noreferrer"}, *Certified Full-Stack Developer*, Talent Path
-- Earned rank of Eagle Scout at age 16
 - Served a two-year, full-time mission (Spanish-speaking) for [The Church of Jesus of Christ of Latter-day Saints](https://www.churchofjesuschrist.org/){:target="\_blank" rel="noopener noreferrer"} 
+- Earned rank of Eagle Scout at age 16 
 
 #### Years Of Experience:
 
