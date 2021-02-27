@@ -102,13 +102,13 @@ _I intuitively promote harmony and teamwork by expressing appreciation for the c
 
 **TALENT PATH - HOUSTON, TX	09/2019 – 12/2020**
 FULL STACK DEVELOPER
-- Utilized HTML, CSS, Javascript to create single page web application
+- Utilized HTML, CSS, JavaScript to create single page web application
 - Created Multi-page web applications through use of React, React Router and Express servers
 - Hosted pages through Netlify with Heroku for Continuous Integration
-- Capstone project features all skills learned through training process
+- Utilized GitHub projects to apply team-based Agile practices to each application
 - Worked in small teams using paired programming and Agile methodologies
-- Created Spring Boot API servers for various projects
-- Connected API servers to either PostgreSQL or MySql with Flyway migration
+- Created Spring Boot API servers for various projects; Supported with Angular client side application
+- Connected API servers to either PostgreSQL or MySQL with Flyway migration
 
 **SYSCO FOODS - HOUSTON, TX	01/2020 – 05/2020**
 FULL STACK DEVELOPER - Consultant
