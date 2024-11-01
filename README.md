@@ -1,5 +1,8 @@
 # trevis.github.io
 
+## WIP portofolio site that needs to be updated with current information
+Currently busy with upskilling and job hunt, but will updated soon.
+
 ## Trying out gh pages
 
 This repos is to try out github pages [located here.](https://trevis42.github.io "Test github pages site"), as well as to learn how to use Markdown more effeciently.
