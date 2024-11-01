@@ -4,7 +4,7 @@ title: Trevor Taylor
 description: Homepage for my profile and all things tech related.
 ---
 
-# My Portfolio
+# My Portfolio (WIP: upadting with new information soon)
 
 ---
 
