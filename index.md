@@ -8,7 +8,7 @@ description: Homepage for my profile and all things tech related.
 
 ---
 
-## Welcome!  (WIP: upadting with new information soon)
+## Welcome!  (WIP: updating with new information soon)
 Thank you for visiting my portfolio site.  
 Here you will find links to my profile as well as various projects I have on GitHub.  
 Feel free to view them in any order.
